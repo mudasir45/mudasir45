@@ -15,27 +15,16 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
 
 ### Projects
 
-1. **Just Right**: 
-   - Description: A comprehensive admin flow system integrated with Firebase.
-   - Technologies: Next.js, Firebase, React Hook Form, zod.
-
-2. **Smart Blog Platform**: 
-   - Description: A blog platform allowing uploads from Django admin with professional functionalities.
-   - Technologies: Django REST Framework, React.
-
-3. **Dynamic Landing Page**: 
-   - Description: An engaging landing page built with Astro.js, featuring smooth animations and responsive design.
-   - Technologies: Astro.js, Tailwind CSS.
-
-4. **Multistep Registration Form**: 
-   - Description: A stepwise registration form with robust validation.
-   - Technologies: Next.js, React Hook Form, zod.
+1. [**Project Name 1**](https://github.com/MudassarAmin/project-name-1)
+2. [**Project Name 2**](https://github.com/MudassarAmin/project-name-2)
+3. [**Project Name 3**](https://github.com/MudassarAmin/project-name-3)
+4. [**Project Name 4**](https://github.com/MudassarAmin/project-name-4)
 
 ## 📫 Get in Touch
 
-- **Email:** mudassar.amin@example.com
+- **Email:** mudasiramin320@gmail.com
 - **LinkedIn:** [Mudassar Amin](https://www.linkedin.com/in/mudassar-amin/)
-- **GitHub:** [Mudassar Amin](https://github.com/MudassarAmin)
+- **GitHub:** [Mudassar Amin](https://github.com/mudasir45)
 
 ## 🛠 Tools and Technologies
 
