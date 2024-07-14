@@ -15,10 +15,10 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
 
 ### Projects
 
-1. [**Project Name 1**](https://github.com/MudassarAmin/project-name-1)
-2. [**Project Name 2**](https://github.com/MudassarAmin/project-name-2)
-3. [**Project Name 3**](https://github.com/MudassarAmin/project-name-3)
-4. [**Project Name 4**](https://github.com/MudassarAmin/project-name-4)
+1. [**ML Disease Prediction Project (Django/ML)**](https://github.com/mudasir45/ML-desease-prediction-project)
+2. [**Crown Umrah (NextJs)**](https://crownumrah.co.uk/)
+3. [**PDX Airport Shuttle (NextJs)**](https://pdxairportshuttle.com/)
+4. [**RocketScore AstroJs)**](https://rocketscore.com/)
 
 ## 📫 Get in Touch
 
@@ -38,6 +38,6 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
 
 ## 📈 GitHub Stats
 
-![Mudassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MudassarAmin&show_icons=true&theme=radical)
+![Mudassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudasir45&show_icons=true&theme=radical)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just want to say hi.
