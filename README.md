@@ -7,7 +7,7 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
 - **Frontend:** React, Next.js, Astro.js, HTML, CSS, JavaScript, Tailwind CSS
 - **Backend:** Django, Django REST Framework, Node.js
 - **Database:** PostgreSQL, MySQL, SQLite
-- **APIs:** RESTful APIs, GraphQL
+- **APIs:** RESTful APIs
 - **DevOps:** Docker, Git, CI/CD
 - **Machine Learning & AI:** Integration to enhance application capabilities
 
