@@ -23,8 +23,8 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
 ## 📫 Get in Touch
 
 - **Email:** mudasiramin320@gmail.com
-- **LinkedIn:** [Mudassar Amin](https://www.linkedin.com/in/mudassar-amin/)
-- **GitHub:** [Mudassar Amin](https://github.com/mudasir45)
+- **LinkedIn:** [Mudasir Amin](https://www.linkedin.com/in/mudasiramin/)
+- **GitHub:** [Mudasir Amin](https://github.com/mudasir45)
 
 ## 🛠 Tools and Technologies
 
