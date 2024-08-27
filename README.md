@@ -37,7 +37,11 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 GitHub Stats
-
+ <br>
+<h3>Profile Views</h3>
+ <p align="left"> <img src="https://profile-counter.glitch.me/mudasir45/count.svg" alt="desphixs" /> </p>
+ 
+ </br>
 ![Mudassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudasir45&show_icons=true&theme=radical)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just want to say hi.
