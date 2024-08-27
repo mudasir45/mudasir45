@@ -37,15 +37,21 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 GitHub Stats
- <br>
-<h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/mudasir45/count.svg" alt="desphixs" /> </p>
- 
-![Mudassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudasir45&show_icons=true&theme=radical)
-<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=mudasir45'></p>
 
-<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mudasir45/count.svg" alt="Profile Views" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mudasir45&show_icons=true&theme=radical" alt="Mudassar's GitHub stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudasir45&hide=java,html,css&theme=radical)](https://github.com/mudasir45/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mudasir45&theme=radical" alt="Mudassar's GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasir45&hide=java,html,css&theme=radical" alt="Top Languages" />
+</p>
+
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just want to say hi.
