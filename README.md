@@ -43,6 +43,6 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
  
 ![Mudassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudasir45&show_icons=true&theme=radical)
 <p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=mudasir45'></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudasir45&hide=java,html,css&theme=radical)](https://github.com/mudasir45/github-readme-stats)
+
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just want to say hi.
