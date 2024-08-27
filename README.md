@@ -21,7 +21,7 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
         <li><strong>Database:</strong> PostgreSQL, MySQL, SQLite</li>
         <li><strong>APIs:</strong> RESTful APIs</li>
         <li><strong>DevOps:</strong> Docker, Git, CI/CD</li>
-        <li><strong>Machine Learning & AI:</strong> Integration to enhance application capabilities</li>
+        <li><strong>AI/ML:</strong> ML/DL Models, OpenAI, LLMs</li>
       </ul>
     </td>
     <td valign="top" width="50%">
