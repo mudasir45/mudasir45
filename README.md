@@ -42,5 +42,6 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
  <p align="left"> <img src="https://profile-counter.glitch.me/mudasir45/count.svg" alt="desphixs" /> </p>
  
 ![Mudassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudasir45&show_icons=true&theme=radical)
+<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=mudasir45'></p>
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just want to say hi.
