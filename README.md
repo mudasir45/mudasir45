@@ -40,18 +40,17 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/mudasir45/count.svg" alt="Profile Views" />
+  <br>
+  <strong>Profile Views</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudasir45&show_icons=true&theme=radical" alt="Mudassar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mudasir45&show_icons=true&theme=radical" alt="Mudassar's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mudasir45&theme=radical" alt="Mudassar's GitHub Streaks" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mudasir45&theme=radical" alt="Mudassar's GitHub Streaks" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasir45&hide=java,html,css&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasir45&hide=java,html,css&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just want to say hi.
