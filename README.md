@@ -62,4 +62,6 @@ I'm a passionate Full Stack Software Engineer with 1.5 years of experience in we
 
 ---
 
+<img src="https://repostimeline.nazifbara.com/mudasir45" />
+
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just want to say hi.
